@@ -16,3 +16,4 @@
 - Node
 - Express
 - Git
+- Vanilla Javascript
